@@ -1,4 +1,3 @@
-## Live URL : https://dazzling-haibt-857ea0.netlify.app/
 
 # Getting Started with Create React App
 
